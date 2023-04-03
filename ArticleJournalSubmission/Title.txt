@@ -1,0 +1,8 @@
+Time series forecasting based on neural networks and technical analysis indicators
+
+Jeison Ivan Roa Mora, Diego Alejandro Barragán Vargas
+
+Maharishi international University, Universidad Distrital Francisco Jose de Caldas 
+
+
+jeisonroa1@miu.edu,dabarraganv@correo.udistrital.edu.co
